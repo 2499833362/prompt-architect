@@ -8,7 +8,9 @@ Prompt Architect turns vague ideas into clear, testable AI task prompts. It asks
 
 这是一个指令型 Skill。它帮助用户明确目标、生成提示词，并根据实际执行反馈修订。可以设计面向 ChatGPT、Work 或 Codex 的任务指令；目标工具的真实能力和权限需要分别核实。
 
-**发布状态：本地发布候选，尚未公开发布，也未创建公开仓库。** 版本标签表示本包的目标版本，不代表 GitHub 已存在相应 Release。
+**发布状态：GitHub 公开 Beta 仓库，版本为 Prompt Architect v1.0.0 Beta。** `v1.0.0-beta` Release 目前保留为草稿，尚未正式发布。
+
+公开仓库：[prompt-architect](https://github.com/2499833362/prompt-architect)。
 
 ## 能做什么
 
@@ -80,4 +82,4 @@ docs/
 
 ## 许可证
 
-本项目采用 [MIT License](LICENSE)，版权署名见许可证文件。当前候选包尚未公开发布。
+本项目采用 [MIT License](LICENSE)，版权署名见许可证文件。仓库已公开；Release 发布状态见 [Releases 页面](https://github.com/2499833362/prompt-architect/releases)。
