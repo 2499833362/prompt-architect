@@ -1,0 +1,7 @@
+_review/
+_qa/
+*.log
+*.jsonl
+*.zip
+.DS_Store
+Thumbs.db
